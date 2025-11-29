@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache files
+pycache/
+*.py[cod]
+*$py.class
+
+# Env fayllari (maxfiy ma’lumotlar)
+.env
+.env.local
+.env.*.local
+
+# Database fayllari (agar lokal SQLite ishlatilsa)
+*.db
+*.sqlite3
+
+# IDE fayllari (VSCode, PyCharm)
+.vscode/
+.idea/
+*.iml
+
+# Log fayllari
+*.log
+
+# OS fayllari
+.DS_Store
+Thumbs.db
